@@ -1,0 +1,2 @@
+# Feature modules (domain-driven) - auth, dashboard, users, settings
+# Each feature: components, pages, stores, services, types, composables
